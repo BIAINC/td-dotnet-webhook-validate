@@ -23,7 +23,7 @@ For an example payload, such as
 }
 ```
 
-(Note the above was formated nicely. The actual body of the webhook will have line returns)
+(Note the above was formated nicely. The actual body of the webhook will not have line returns)
 
 with the following header
 `X-TD-Signature: t=1518396013,v1=5e74a4786626a887c7de42bdc072c9e6ca471cd6b7509247b9ddff6cdca48c15`
